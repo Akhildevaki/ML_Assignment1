@@ -30,3 +30,5 @@ Here in Question7 , we are using escape sequences to get the desired output as p
 Here in Question8, we are using placeholders such as %d for integers for the output to get as mentioned in the document.
 
 Here in Question9, we are taking the input from the user and storing it in the list and traversing the list with the help of for loop and converting the lbs to kgs and again appending them to the list with the help of for loop and printing it.
+
+**Video link :** https://drive.google.com/file/d/1p0sAUoyXV7JI5FG6ukljfQInv3CwN7CO/view?usp=sharing
